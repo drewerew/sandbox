@@ -4,6 +4,7 @@ import java.util.Set;
 import java.util.TreeMap;
 change1 from 1
 change2 from 2
+conflict from 2 defghi
 import org.apache.commons.beanutils.BeanUtils;
 
 import com.icg.coresource.common.UserSession;
